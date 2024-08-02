@@ -7,9 +7,10 @@
 # Recode by @mrismanaziz
 # t.me/SharingUserbot
 #
+
 """ Userbot initialization. """
 
-import logging
+import logging, phone()
 import os
 import re
 import sys
