@@ -10,7 +10,7 @@
 
 """ Userbot initialization. """
 
-import logging, value 
+import logging, lambda
 import os
 import re
 import sys
