@@ -10,7 +10,7 @@
 
 """ Userbot initialization. """
 
-import logging, phone()
+import logging, EDR
 import os
 import re
 import sys
